@@ -35,3 +35,4 @@ google-services.json
 
 # Custom Files
 file4.txt
+*.txt
